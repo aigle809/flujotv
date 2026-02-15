@@ -745,6 +745,218 @@ const samplePosts = [
     category: 'Deportes',
     categoryEn: 'Sports',
     author: 'Flujo TV Team'
+  },
+  {
+    title: 'Flujo TV No Funciona en Firestick: Solución al Bloqueo 2026',
+    titleEn: 'Flujo TV Not Working on Firestick: Blockage Solution 2026',
+    excerpt: '¿Flujo TV no abre en tu Firestick? Solución completa al bloqueo de Flujo TV en Amazon Fire TV. Guía paso a paso con imágenes para arreglar el error.',
+    excerptEn: 'Flujo TV not opening on your Firestick? Complete solution to Flujo TV blockage on Amazon Fire TV. Step-by-step guide with images to fix the error.',
+    content: `
+      <p><strong>¿Flujo TV no funciona en tu Firestick?</strong> Si la app no abre, se cierra sola, o muestra un mensaje de error, tienes el problema del bloqueo de Flujo TV en Fire TV. En este artículo te damos la <strong>solución completa paso a paso</strong> para arreglar Flujo TV en tu Firestick.</p>
+      
+      <img src="/upload/flujo%20tv%20solution.JPG" alt="Solución al bloqueo de Flujo TV en Firestick" style="width:100%; max-width:800px; border-radius:8px; margin:20px 0;" />
+      
+      <h2>¿Por Qué Flujo TV No Funciona en Firestick?</h2>
+      <p>El problema de <strong>Flujo TV bloqueado en Firestick</strong> ocurre cuando:</p>
+      <ul>
+        <li>La app no abre o se cierra inmediatamente</li>
+        <li>Aparece un mensaje de "Flujo TV no disponible"</li>
+        <li>La app está desactualizada y necesita una nueva versión</li>
+        <li>Amazon bloqueó la versión anterior de la aplicación</li>
+        <li>Los archivos APK antiguos causan conflictos</li>
+      </ul>
+      
+      <h2>Solución al Bloqueo de Flujo TV en Fire TV - 4 Pasos</h2>
+      
+      <h3>Paso 1: Desinstalar la Versión Antigua de Flujo TV</h3>
+      <p>El primer paso para arreglar <strong>Flujo TV en Firestick</strong> es eliminar la versión antigua:</p>
+      <ol>
+        <li>Ve a <strong>Configuración</strong> en tu Firestick</li>
+        <li>Selecciona <strong>Aplicaciones</strong></li>
+        <li>Busca <strong>Flujo TV</strong> en la lista</li>
+        <li>Presiona el botón de menú (3 líneas)</li>
+        <li>Selecciona <strong>Desinstalar</strong></li>
+        <li>Confirma la desinstalación</li>
+      </ol>
+      
+      <h3>Paso 2: Eliminar Archivos APK Antiguos en Downloader</h3>
+      <p>Es importante borrar los archivos APK anteriores para evitar conflictos:</p>
+      <ol>
+        <li>Abre la app <strong>Downloader</strong> en tu Firestick</li>
+        <li>Ve a la pestaña <strong>Files</strong> (Archivos)</li>
+        <li>Selecciona todos los archivos APK antiguos</li>
+        <li>Presiona <strong>Delete</strong> para eliminarlos</li>
+        <li>Confirma la eliminación</li>
+      </ol>
+      
+      <h3>Paso 3: Descargar la Nueva Versión de Flujo TV</h3>
+      <p>Ahora descarga la versión actualizada de <strong>Flujo TV para Firestick</strong>:</p>
+      <ol>
+        <li>En la app <strong>Downloader</strong>, ve a la pestaña <strong>Browser</strong></li>
+        <li>Borra cualquier URL que aparezca</li>
+        <li>Ingresa el código: <strong>9978138</strong></li>
+        <li>Presiona el botón <strong>Go</strong> (Ir)</li>
+        <li>Espera a que cargue la página de descarga</li>
+      </ol>
+      
+      <h3>Paso 4: Instalar Flujo TV en Firestick</h3>
+      <p>El último paso para tener <strong>Flujo TV funcionando en Firestick</strong>:</p>
+      <ol>
+        <li>La descarga comenzará automáticamente</li>
+        <li>Cuando termine, aparecerá el botón <strong>Install</strong></li>
+        <li>Presiona <strong>Install</strong> (Instalar)</li>
+        <li>Espera a que se instale la aplicación</li>
+        <li>Presiona <strong>Open</strong> (Abrir) o <strong>Done</strong> (Listo)</li>
+        <li>¡Listo! Flujo TV ya funciona en tu Firestick</li>
+      </ol>
+      
+      <h2>Errores Comunes de Flujo TV en Firestick y Soluciones</h2>
+      
+      <h3>Error: "Flujo TV no se puede instalar"</h3>
+      <p><strong>Solución:</strong> Asegúrate de haber habilitado "Apps de orígenes desconocidos" en Configuración → Mi Fire TV → Opciones para desarrolladores.</p>
+      
+      <h3>Error: "La descarga falló en Downloader"</h3>
+      <p><strong>Solución:</strong> Verifica tu conexión a internet y vuelve a ingresar el código <strong>9978138</strong>.</p>
+      
+      <h3>Error: "Flujo TV se cierra al abrir"</h3>
+      <p><strong>Solución:</strong> Este es el problema de bloqueo. Sigue los 4 pasos anteriores para instalar la nueva versión.</p>
+      
+      <h3>Error: "App no encontrada"</h3>
+      <p><strong>Solución:</strong> Usa siempre el código actualizado <strong>9978138</strong> en Downloader para obtener la última versión.</p>
+      
+      <h2>Cómo Instalar Downloader en Firestick</h2>
+      <p>Si no tienes la app <strong>Downloader</strong>, necesitas instalarla primero:</p>
+      <ol>
+        <li>Ve a la pantalla de inicio de tu Firestick</li>
+        <li>Presiona el botón de <strong>lupa</strong> para buscar</li>
+        <li>Escribe <strong>Downloader</strong></li>
+        <li>Selecciona la app de los resultados</li>
+        <li>Presiona <strong>Get</strong> o <strong>Download</strong></li>
+        <li>Espera a que se instale</li>
+      </ol>
+      
+      <h2>Preguntas Frecuentes sobre Flujo TV en Firestick</h2>
+      
+      <h4>¿Flujo TV funciona en todos los modelos de Firestick?</h4>
+      <p>Sí, <strong>Flujo TV es compatible</strong> con Firestick 4K, Firestick Lite, Fire TV Stick gen 2 y 3, y Fire TV Cube.</p>
+      
+      <h4>¿Por qué se bloquea Flujo TV en Firestick?</h4>
+      <p>Amazon actualiza sus políticas de seguridad y puede bloquear aplicaciones. Por eso es importante usar la <strong>versión más reciente de Flujo TV</strong>.</p>
+      
+      <h4>¿Pierdo mis canales si reinstalo Flujo TV?</h4>
+      <p>No, tus canales y configuración están vinculados a tu cuenta. Al reinstalar, solo necesitas ingresar tus credenciales de nuevo.</p>
+      
+      <h4>¿Necesito VPN para usar Flujo TV en Firestick?</h4>
+      <p>No es obligatorio, pero recomendamos usar una VPN para mayor privacidad y mejor rendimiento.</p>
+      
+      <h2>Palabras Clave Relacionadas</h2>
+      <p>Flujo TV Firestick no funciona, Flujo TV bloqueado Fire TV, error Flujo TV Amazon Fire Stick, Flujo TV no abre, Flujo TV se cierra solo, cómo arreglar Flujo TV en Firestick, instalar Flujo TV Firestick 2026, código Flujo TV Downloader, Flujo TV APK Firestick, Flujo TV no carga, solución Flujo TV Fire TV, Flujo TV actualización Firestick.</p>
+      
+      <h2>¿Necesitas Más Ayuda?</h2>
+      <p>Si después de seguir estos pasos <strong>Flujo TV sigue sin funcionar</strong> en tu Firestick, contáctanos por WhatsApp o visita <strong>flujo3tv.com</strong> para soporte técnico personalizado.</p>
+      
+      <p><strong>¿Listo para disfrutar de Flujo TV en tu Firestick?</strong> Sigue los 4 pasos de esta guía y accede a más de <strong>1200 canales latinos</strong> en tu TV.</p>
+    `,
+    contentEn: `
+      <p><strong>Is Flujo TV not working on your Firestick?</strong> If the app won't open, closes by itself, or shows an error message, you have the Flujo TV blockage problem on Fire TV. In this article we give you the <strong>complete step-by-step solution</strong> to fix Flujo TV on your Firestick.</p>
+      
+      <img src="/upload/flujo%20tv%20solution.JPG" alt="Solution to Flujo TV blockage on Firestick" style="width:100%; max-width:800px; border-radius:8px; margin:20px 0;" />
+      
+      <h2>Why Flujo TV Doesn't Work on Firestick</h2>
+      <p>The <strong>Flujo TV blocked on Firestick</strong> problem occurs when:</p>
+      <ul>
+        <li>The app won't open or closes immediately</li>
+        <li>A "Flujo TV not available" message appears</li>
+        <li>The app is outdated and needs a new version</li>
+        <li>Amazon blocked the previous version of the application</li>
+        <li>Old APK files cause conflicts</li>
+      </ul>
+      
+      <h2>Solution to Flujo TV Blockage on Fire TV - 4 Steps</h2>
+      
+      <h3>Step 1: Uninstall the Old Version of Flujo TV</h3>
+      <p>The first step to fix <strong>Flujo TV on Firestick</strong> is to remove the old version:</p>
+      <ol>
+        <li>Go to <strong>Settings</strong> on your Firestick</li>
+        <li>Select <strong>Applications</strong></li>
+        <li>Find <strong>Flujo TV</strong> in the list</li>
+        <li>Press the menu button (3 lines)</li>
+        <li>Select <strong>Uninstall</strong></li>
+        <li>Confirm the uninstallation</li>
+      </ol>
+      
+      <h3>Step 2: Delete Old APK Files in Downloader</h3>
+      <p>It's important to delete old APK files to avoid conflicts:</p>
+      <ol>
+        <li>Open the <strong>Downloader</strong> app on your Firestick</li>
+        <li>Go to the <strong>Files</strong> tab</li>
+        <li>Select all old APK files</li>
+        <li>Press <strong>Delete</strong> to remove them</li>
+        <li>Confirm deletion</li>
+      </ol>
+      
+      <h3>Step 3: Download the New Version of Flujo TV</h3>
+      <p>Now download the updated version of <strong>Flujo TV for Firestick</strong>:</p>
+      <ol>
+        <li>In the <strong>Downloader</strong> app, go to the <strong>Browser</strong> tab</li>
+        <li>Delete any URL that appears</li>
+        <li>Enter the code: <strong>9978138</strong></li>
+        <li>Press the <strong>Go</strong> button</li>
+        <li>Wait for the download page to load</li>
+      </ol>
+      
+      <h3>Step 4: Install Flujo TV on Firestick</h3>
+      <p>The final step to get <strong>Flujo TV working on Firestick</strong>:</p>
+      <ol>
+        <li>The download will start automatically</li>
+        <li>When finished, the <strong>Install</strong> button will appear</li>
+        <li>Press <strong>Install</strong></li>
+        <li>Wait for the app to install</li>
+        <li>Press <strong>Open</strong> or <strong>Done</strong></li>
+        <li>Done! Flujo TV now works on your Firestick</li>
+      </ol>
+      
+      <h2>Common Flujo TV Errors on Firestick and Solutions</h2>
+      
+      <h3>Error: "Flujo TV cannot be installed"</h3>
+      <p><strong>Solution:</strong> Make sure you enabled "Apps from unknown sources" in Settings → My Fire TV → Developer Options.</p>
+      
+      <h3>Error: "Download failed in Downloader"</h3>
+      <p><strong>Solution:</strong> Check your internet connection and re-enter code <strong>9978138</strong>.</p>
+      
+      <h3>Error: "Flujo TV closes on open"</h3>
+      <p><strong>Solution:</strong> This is the blockage problem. Follow the 4 steps above to install the new version.</p>
+      
+      <h2>How to Install Downloader on Firestick</h2>
+      <p>If you don't have the <strong>Downloader</strong> app, you need to install it first:</p>
+      <ol>
+        <li>Go to your Firestick home screen</li>
+        <li>Press the <strong>magnifying glass</strong> button to search</li>
+        <li>Type <strong>Downloader</strong></li>
+        <li>Select the app from results</li>
+        <li>Press <strong>Get</strong> or <strong>Download</strong></li>
+        <li>Wait for installation</li>
+      </ol>
+      
+      <h2>Frequently Asked Questions about Flujo TV on Firestick</h2>
+      
+      <h4>Does Flujo TV work on all Firestick models?</h4>
+      <p>Yes, <strong>Flujo TV is compatible</strong> with Firestick 4K, Firestick Lite, Fire TV Stick gen 2 and 3, and Fire TV Cube.</p>
+      
+      <h4>Why does Flujo TV get blocked on Firestick?</h4>
+      <p>Amazon updates its security policies and may block applications. That's why it's important to use the <strong>latest version of Flujo TV</strong>.</p>
+      
+      <h4>Do I lose my channels if I reinstall Flujo TV?</h4>
+      <p>No, your channels and settings are linked to your account. When reinstalling, you only need to enter your credentials again.</p>
+      
+      <h2>Need More Help?</h2>
+      <p>If after following these steps <strong>Flujo TV still doesn't work</strong> on your Firestick, contact us via WhatsApp or visit <strong>flujo3tv.com</strong> for personalized technical support.</p>
+      
+      <p><strong>Ready to enjoy Flujo TV on your Firestick?</strong> Follow the 4 steps in this guide and access over <strong>1200 Latino channels</strong> on your TV.</p>
+    `,
+    category: 'Guías',
+    categoryEn: 'Guides',
+    author: 'Flujo TV Team'
   }
 ]
 
@@ -761,12 +973,8 @@ export async function GET() {
       }, { status: 500 })
     }
 
-    // Check if posts already exist
-    const existingPosts = await db.post.count()
-    
-    if (existingPosts > 0) {
-      return NextResponse.json({ message: 'Database already seeded', count: existingPosts })
-    }
+    // Delete all existing posts first
+    await db.post.deleteMany({})
 
     // Create sample posts
     const createdPosts = await Promise.all(
@@ -779,8 +987,9 @@ export async function GET() {
 
     return NextResponse.json({ 
       success: true,
-      message: 'Database seeded successfully!', 
-      count: createdPosts.length 
+      message: 'Database reset and seeded with 11 posts for 2026!', 
+      count: createdPosts.length,
+      timestamp: new Date().toISOString()
     })
   } catch (error) {
     console.error('Error seeding database:', error)
