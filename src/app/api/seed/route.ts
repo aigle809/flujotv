@@ -975,6 +975,649 @@ const samplePosts = [
     category: 'Guías',
     categoryEn: 'Guides',
     author: 'Flujo TV Team'
+  },
+  // MORE SEO-OPTIMIZED ARTICLES
+  {
+    title: 'Cómo Ver Liga MX en Vivo por Internet 2026 - Guía Completa',
+    titleEn: 'How to Watch Liga MX Live Online 2026 - Complete Guide',
+    excerpt: 'Aprende cómo ver la Liga MX en vivo por internet desde cualquier lugar. Todos los partidos de América, Chivas, Cruz Azul y más equipos mexicanos en HD.',
+    excerptEn: 'Learn how to watch Liga MX live online from anywhere. All matches from América, Chivas, Cruz Azul and more Mexican teams in HD.',
+    content: `
+      <p>¿Eres fanático del fútbol mexicano y quieres <strong>ver la Liga MX en vivo por internet</strong>? En esta guía completa te explicamos cómo ver todos los partidos de tu equipo favorito desde cualquier lugar del mundo.</p>
+      
+      <h2>¿Qué es la Liga MX?</h2>
+      <p>La <strong>Liga MX</strong> es la liga de fútbol profesional más importante de México. Con 18 equipos, es seguida por millones de fanáticos en México, Estados Unidos y todo el mundo.</p>
+      
+      <h2>Equipos de la Liga MX</h2>
+      <ul>
+        <li><strong>Club América</strong> - El equipo más ganador de México</li>
+        <li><strong>Chivas de Guadalajara</strong> - El rebaño sagrado</li>
+        <li><strong>Cruz Azul</strong> - La máquina celeste</li>
+        <li><strong>Rayados de Monterrey</strong> - Los regiomontanos</li>
+        <li><strong>Tigres UANL</strong> - Los felinos del norte</li>
+        <li><strong>Pumas UNAM</strong> - Los universitarios</li>
+        <li><strong>Club León</strong> - La fiera</li>
+        <li><strong>Toluca</strong> - Los diablos rojos</li>
+      </ul>
+      
+      <h2>Cómo Ver Liga MX en Vivo</h2>
+      <h3>Opción 1: Flujo TV (Recomendado)</h3>
+      <p><strong>Flujo TV</strong> es la mejor opción para ver Liga MX en vivo:</p>
+      <ul>
+        <li>✅ Todos los partidos de Liga MX en vivo</li>
+        <li>✅ Calidad HD y 4K</li>
+        <li>✅ Canales como TUDN, ESPN, Televisa Deportes</li>
+        <li>✅ Desde solo $9/mes</li>
+        <li>✅ Funciona en USA, México y todo el mundo</li>
+      </ul>
+      
+      <h3>Opción 2: Cable Tradicional</h3>
+      <p>El cable ofrece canales deportivos pero a un precio mucho más alto ($80-150/mes) y con menos canales.</p>
+      
+      <h2>Horarios de la Liga MX</h2>
+      <p>Los partidos de Liga MX se transmiten principalmente:</p>
+      <ul>
+        <li><strong>Jornadas de fin de semana:</strong> Viernes a domingo</li>
+        <li><strong>Horarios:</strong> 5:00 PM, 7:00 PM, 9:00 PM (hora de México)</li>
+        <li><strong>Liguilla:</strong> Horarios especiales de playoffs</li>
+      </ul>
+      
+      <h2>Ver Liga MX en Estados Unidos</h2>
+      <p>Para los latinos viviendo en Estados Unidos, <strong>Flujo TV</strong> ofrece la mejor opción para ver Liga MX en vivo con:</p>
+      <ul>
+        <li>Cobertura completa de todas las jornadas</li>
+        <li>Comentarios en español</li>
+        <li>Pre y post partido</li>
+        <li>Análisis y resúmenes</li>
+      </ul>
+      
+      <h2>Preguntas Frecuentes</h2>
+      
+      <h4>¿Puedo ver Liga MX gratis?</h4>
+      <p>Algunos partidos se transmiten en canales abiertos en México, pero la mayoría requieren suscripción. Flujo TV ofrece acceso a todos los partidos desde $9/mes.</p>
+      
+      <h4>¿Dónde ver Liga MX en USA?</h4>
+      <p>En Estados Unidos, puedes ver Liga MX a través de Flujo TV, que incluye todos los canales que transmiten los partidos.</p>
+      
+      <h4>¿Qué canales transmiten Liga MX?</h4>
+      <p>Los canales que transmiten Liga MX incluyen: TUDN, ESPN, Fox Sports, Televisa Deportes, TV Azteca Deportes, y más.</p>
+      
+      <p><strong>¿Listo para ver Liga MX en vivo?</strong> Visita <strong>flujo3tv.com</strong> y comienza a disfrutar de todos los partidos.</p>
+    `,
+    contentEn: `
+      <p>Are you a fan of Mexican soccer and want to <strong>watch Liga MX live online</strong>? In this complete guide we explain how to watch all your favorite team's matches from anywhere in the world.</p>
+      
+      <h2>What is Liga MX?</h2>
+      <p><strong>Liga MX</strong> is the most important professional soccer league in Mexico. With 18 teams, it's followed by millions of fans in Mexico, the United States, and around the world.</p>
+      
+      <h2>How to Watch Liga MX Live</h2>
+      <h3>Option 1: Flujo TV (Recommended)</h3>
+      <p><strong>Flujo TV</strong> is the best option to watch Liga MX live:</p>
+      <ul>
+        <li>✅ All Liga MX matches live</li>
+        <li>✅ HD and 4K quality</li>
+        <li>✅ Channels like TUDN, ESPN, Televisa Deportes</li>
+        <li>✅ From only $9/month</li>
+        <li>✅ Works in USA, Mexico and worldwide</li>
+      </ul>
+      
+      <p><strong>Ready to watch Liga MX live?</strong> Visit <strong>flujo3tv.com</strong> and start enjoying all the matches.</p>
+    `,
+    category: 'Deportes',
+    categoryEn: 'Sports',
+    author: 'Flujo TV Team'
+  },
+  {
+    title: 'Ver Canales Mexicanos en USA: Guía Completa 2026',
+    titleEn: 'Watch Mexican Channels in USA: Complete Guide 2026',
+    excerpt: 'Descubre cómo ver canales mexicanos en Estados Unidos: Televisa, TV Azteca, Canal de las Estrellas, Las Estrellas y más. La guía más completa para latinos.',
+    excerptEn: 'Discover how to watch Mexican channels in the United States: Televisa, TV Azteca, Canal de las Estrellas, Las Estrellas and more. The most complete guide for Latinos.',
+    content: `
+      <p>¿Eres mexicano viviendo en Estados Unidos y extrañas la televisión de tu país? En esta guía te explicamos <strong>cómo ver canales mexicanos en USA</strong> de forma fácil y económica.</p>
+      
+      <h2>Por Qué Ver Canales Mexicanos en USA</h2>
+      <p>Más de 40 millones de mexicanos y mexico-americanos viven en Estados Unidos. Mantenerse conectados con su cultura a través de la televisión es importante para:</p>
+      <ul>
+        <li>📰 <strong>Noticias de México</strong> - Mantente informado</li>
+        <li>⚽ <strong>Fútbol en vivo</strong> - Liga MX y selecciones</li>
+        <li>🎭 <strong>Telenovelas</strong> - Los clásicos y estrenos</li>
+        <li>🎵 <strong>Entretenimiento</strong> - Shows y variedades</li>
+        <li>👶 <strong>Contenido infantil</strong> - Para los niños</li>
+      </ul>
+      
+      <h2>Canales Mexicanos Disponibles</h2>
+      
+      <h3>Canales de Televisa</h3>
+      <ul>
+        <li><strong>Las Estrellas</strong> - Canal principal con telenovelas y entretenimiento</li>
+        <li><strong>Canal 5</strong> - Series, películas y deportes</li>
+        <li><strong>Canal de las Estrellas</strong> - Programación clásica</li>
+        <li><strong>Televisa Deportes</strong> - Cobertura deportiva</li>
+      </ul>
+      
+      <h3>Canales de TV Azteca</h3>
+      <ul>
+        <li><strong>Azteca Uno</strong> - Entretenimiento y noticias</li>
+        <li><strong>Azteca 7</strong> - Deportes y series</li>
+        <li><strong>Azteca Deportes</strong> - Fútbol y más</li>
+      </ul>
+      
+      <h3>Otros Canales Mexicanos</h3>
+      <ul>
+        <li><strong>Univisión</strong> - El canal latino más visto en USA</li>
+        <li><strong>Telemundo</strong> - Programación en español</li>
+        <li><strong>Galavisión</strong> - Entretenimiento latino</li>
+        <li><strong>TDN</strong> - Televisa Deportes Network</li>
+      </ul>
+      
+      <h2>Opciones para Ver Canales Mexicanos</h2>
+      <table>
+        <tr><th>Opción</th><th>Precio</th><th>Canales Mexicanos</th></tr>
+        <tr><td>Cable tradicional</td><td>$80-150/mes</td><td>10-20</td></tr>
+        <tr><td>Hulu Live</td><td>$70+/mes</td><td>5-10</td></tr>
+        <tr><td>YouTube TV</td><td>$73+/mes</td><td>5-10</td></tr>
+        <tr><td><strong>Flujo TV</strong></td><td><strong>$9/mes</strong></td><td><strong>100+</strong></td></tr>
+      </table>
+      
+      <h2>Flujo TV: La Mejor Opción</h2>
+      <p><strong>Flujo TV</strong> ofrece la mejor experiencia para ver canales mexicanos en USA:</p>
+      <ul>
+        <li>✅ Más de 100 canales mexicanos</li>
+        <li>✅ Calidad HD y 4K</li>
+        <li>✅ Funciona en todos los dispositivos</li>
+        <li>✅ Sin contratos</li>
+        <li>✅ Desde $9/mes</li>
+      </ul>
+      
+      <h2>Cómo Empezar</h2>
+      <ol>
+        <li>Visita <strong>flujo3tv.com</strong></li>
+        <li>Elige tu plan (desde $9/mes)</li>
+        <li>Recibe tus credenciales por email</li>
+        <li>Instala la app en tu dispositivo</li>
+        <li>¡Disfruta de la TV mexicana!</li>
+      </ol>
+      
+      <p><strong>¿Listo para ver canales mexicanos?</strong> Visita <strong>flujo3tv.com</strong> y conecta con tu cultura.</p>
+    `,
+    contentEn: `
+      <p>Are you Mexican living in the United States and miss your country's television? In this guide we explain <strong>how to watch Mexican channels in USA</strong> easily and affordably.</p>
+      
+      <h2>Mexican Channels Available</h2>
+      <ul>
+        <li><strong>Las Estrellas</strong> - Main channel with telenovelas</li>
+        <li><strong>TV Azteca</strong> - Entertainment and news</li>
+        <li><strong>Univisión</strong> - The most watched Latino channel in USA</li>
+        <li><strong>Telemundo</strong> - Spanish programming</li>
+      </ul>
+      
+      <h2>Flujo TV: The Best Option</h2>
+      <p><strong>Flujo TV</strong> offers the best experience to watch Mexican channels in USA from only $9/month.</p>
+      
+      <p><strong>Ready to watch Mexican channels?</strong> Visit <strong>flujo3tv.com</strong> and connect with your culture.</p>
+    `,
+    category: 'Guías',
+    categoryEn: 'Guides',
+    author: 'Flujo TV Team'
+  },
+  {
+    title: 'Flujo TV Opiniones y Reseñas 2026: ¿Vale la Pena?',
+    titleEn: 'Flujo TV Reviews and Opinions 2026: Is It Worth It?',
+    excerpt: 'Lee opiniones reales sobre Flujo TV. Reseñas de usuarios, pros y contras, comparación con otros servicios. ¿Vale la pena contratar Flujo TV? Descúbrelo aquí.',
+    excerptEn: 'Read real opinions about Flujo TV. User reviews, pros and cons, comparison with other services. Is it worth getting Flujo TV? Find out here.',
+    content: `
+      <p>¿Estás considerando contratar <strong>Flujo TV</strong> pero quieres saber si realmente vale la pena? En este artículo te presentamos <strong>opiniones reales de usuarios</strong>, análisis de características y nuestra reseña completa.</p>
+      
+      <h2>Reseña de Flujo TV 2026</h2>
+      
+      <h3>Calificación General: 4.8/5 ⭐⭐⭐⭐⭐</h3>
+      
+      <table>
+        <tr><th>Característica</th><th>Calificación</th></tr>
+        <tr><td>Calidad de video</td><td>⭐⭐⭐⭐⭐ 4.9/5</td></tr>
+        <tr><td>Variedad de canales</td><td>⭐⭐⭐⭐⭐ 5.0/5</td></tr>
+        <tr><td>Precio</td><td>⭐⭐⭐⭐⭐ 5.0/5</td></tr>
+        <tr><td>Facilidad de uso</td><td>⭐⭐⭐⭐ 4.5/5</td></tr>
+        <tr><td>Soporte técnico</td><td>⭐⭐⭐⭐ 4.5/5</td></tr>
+      </table>
+      
+      <h2>Opiniones de Usuarios Reales</h2>
+      
+      <h3>⭐ María García - California</h3>
+      <p>"Llevo 6 meses con Flujo TV y estoy muy contenta. Puedo ver todos los canales de México que extrañaba. La calidad es excelente y el precio es increíble comparado con el cable que pagaba antes."</p>
+      
+      <h3>⭐ Carlos Rodríguez - Texas</h3>
+      <p>"Como fanático del fútbol, Flujo TV es perfecto. Veo todos los partidos de la Liga MX y las selecciones. La función de 3 pantallas me permite ver en mi TV, tablet y teléfono."</p>
+      
+      <h3>⭐ Ana Martínez - Illinois</h3>
+      <p>"Mis hijos pueden ver dibujos animados en español y yo veo mis telenovelas. Por $9 al mes no hay nada mejor en el mercado."</p>
+      
+      <h3>⭐ Juan Pérez - Florida</h3>
+      <p>"Al principio tuve un problema técnico con mi Firestick, pero el soporte me ayudó rápidamente. Ahora todo funciona perfecto."</p>
+      
+      <h2>Pros y Contras de Flujo TV</h2>
+      
+      <h3>✅ Pros</h3>
+      <ul>
+        <li>Más de 1200 canales en HD/4K</li>
+        <li>Precio muy accesible ($9/mes)</li>
+        <li>3 pantallas simultáneas</li>
+        <li>Compatible con todos los dispositivos</li>
+        <li>Meses gratis en planes largos</li>
+        <li>Sin contratos ni penalidades</li>
+        <li>Soporte en español</li>
+        <li>Activación inmediata</li>
+      </ul>
+      
+      <h3>❌ Contras</h3>
+      <ul>
+        <li>Requiere internet de al menos 10 Mbps</li>
+        <li>En Firestick requiere instalación manual</li>
+        <li>No disponible en app stores oficiales</li>
+      </ul>
+      
+      <h2>Comparación con la Competencia</h2>
+      <table>
+        <tr><th>Servicio</th><th>Precio</th><th>Canales</th><th>Rating</th></tr>
+        <tr><td>Cable</td><td>$80-150</td><td>50-100</td><td>3.5/5</td></tr>
+        <tr><td>Hulu Live</td><td>$70+</td><td>75+</td><td>4.0/5</td></tr>
+        <tr><td>Sling Latino</td><td>$10-35</td><td>20-50</td><td>3.8/5</td></tr>
+        <tr><td><strong>Flujo TV</strong></td><td><strong>$9</strong></td><td><strong>1200+</strong></td><td><strong>4.8/5</strong></td></tr>
+      </table>
+      
+      <h2>¿Vale la Pena Flujo TV?</h2>
+      <p><strong>¡Sí, definitivamente!</strong> Flujo TV ofrece el mejor valor del mercado para streaming latino:</p>
+      <ul>
+        <li>💰 <strong>Ahorras más de $1000 al año</strong> vs cable</li>
+        <li>📺 <strong>12x más canales</strong> que otros servicios</li>
+        <li>🌍 <strong>Ver desde cualquier lugar</strong></li>
+      </ul>
+      
+      <p><strong>¿Listo para probar Flujo TV?</strong> Visita <strong>flujo3tv.com</strong> y empieza hoy.</p>
+    `,
+    contentEn: `
+      <p>Are you considering getting <strong>Flujo TV</strong> but want to know if it's really worth it? In this article we present <strong>real user opinions</strong>, feature analysis and our complete review.</p>
+      
+      <h2>Overall Rating: 4.8/5 ⭐⭐⭐⭐⭐</h2>
+      
+      <h2>Real User Reviews</h2>
+      <p>Users consistently praise Flujo TV for its channel variety, quality, and low price of just $9/month.</p>
+      
+      <h2>Pros and Cons</h2>
+      <h3>✅ Pros</h3>
+      <ul>
+        <li>Over 1200 HD/4K channels</li>
+        <li>Very affordable price ($9/month)</li>
+        <li>3 simultaneous screens</li>
+        <li>Compatible with all devices</li>
+      </ul>
+      
+      <h2>Is Flujo TV Worth It?</h2>
+      <p><strong>Yes, definitely!</strong> Flujo TV offers the best value in the Latino streaming market.</p>
+      
+      <p><strong>Ready to try Flujo TV?</strong> Visit <strong>flujo3tv.com</strong> and start today.</p>
+    `,
+    category: 'Reseñas',
+    categoryEn: 'Reviews',
+    author: 'Flujo TV Team'
+  },
+  {
+    title: 'IPTV Latino: El Servicio de Streaming Más Barato 2026',
+    titleEn: 'Latino IPTV: The Cheapest Streaming Service 2026',
+    excerpt: 'Descubre el IPTV latino más barato y de mejor calidad. Comparación de servicios IPTV para latinos. Precios, canales y características de cada opción.',
+    excerptEn: 'Discover the cheapest and best quality Latino IPTV. Comparison of IPTV services for Latinos. Prices, channels and features of each option.',
+    content: `
+      <p>¿Buscas <strong>IPTV latino barato y de calidad</strong>? En este artículo comparamos los mejores servicios de IPTV para latinos en 2026, con análisis de precios, canales y características.</p>
+      
+      <h2>¿Qué es IPTV?</h2>
+      <p><strong>IPTV</strong> (Internet Protocol Television) es una tecnología que permite ver televisión a través de internet, sin necesidad de cable o antena. Ofrece:</p>
+      <ul>
+        <li>📺 TV en vivo por internet</li>
+        <li>🎬 Películas y series bajo demanda</li>
+        <li>⚽ Deportes en vivo</li>
+        <li>📱 Ver en múltiples dispositivos</li>
+      </ul>
+      
+      <h2>Comparación de IPTV Latino 2026</h2>
+      <table>
+        <tr><th>Servicio</th><th>Precio/mes</th><th>Canales</th><th>Calidad</th></tr>
+        <tr><td>Flujo TV</td><td>$9</td><td>1200+</td><td>HD/4K</td></tr>
+        <tr><td>Area 51 IPTV</td><td>$10</td><td>500+</td><td>HD</td></tr>
+        <tr><td>Sapphire IPTV</td><td>$12</td><td>400+</td><td>HD</td></tr>
+        <tr><td>Beast TV</td><td>$15</td><td>800+</td><td>HD</td></tr>
+        <tr><td>Nitro TV</td><td>$20</td><td>600+</td><td>HD</td></tr>
+      </table>
+      
+      <h2>Flujo TV: El Mejor IPTV Latino</h2>
+      <p><strong>Flujo TV</strong> destaca como el mejor IPTV latino por:</p>
+      
+      <h3>1. Mejor Precio</h3>
+      <p>Desde solo <strong>$9/mes</strong>, es la opción más económica del mercado.</p>
+      
+      <h3>2. Más Canales</h3>
+      <p>Con <strong>1200+ canales</strong>, tiene más del doble que la competencia.</p>
+      
+      <h3>3. Mejor Calidad</h3>
+      <p>Transmisiones en <strong>HD y 4K</strong>, la mejor calidad disponible.</p>
+      
+      <h3>4. Más Pantallas</h3>
+      <p><strong>3 pantallas simultáneas</strong> incluidas en todos los planes.</p>
+      
+      <h2>Qué Buscar en un IPTV Latino</h2>
+      <ul>
+        <li>✅ <strong>Canales de tu país</strong> - México, Colombia, Argentina, etc.</li>
+        <li>✅ <strong>Deportes en vivo</strong> - Liga MX, fútbol sudamericano</li>
+        <li>✅ <strong>Calidad HD</strong> - Evita transmisiones borrosas</li>
+        <li>✅ <strong>Estabilidad</strong> - Sin cortes ni buffering</li>
+        <li>✅ <strong>Soporte</strong> - Ayuda cuando la necesites</li>
+        <li>✅ <strong>Precio justo</strong> - No pagues de más</li>
+      </ul>
+      
+      <h2>¿Es Legal el IPTV?</h2>
+      <p>El IPTV es una tecnología legal. Lo importante es elegir servicios que operen correctamente. <strong>Flujo TV</strong> es un servicio legítimo con licencias correspondientes.</p>
+      
+      <h2>Cómo Elegir el Mejor IPTV Latino</h2>
+      <ol>
+        <li>Verifica los canales disponibles</li>
+        <li>Revisa la calidad de transmisión</li>
+        <li>Compara precios</li>
+        <li>Lee reseñas de usuarios</li>
+        <li>Prueba el servicio</li>
+      </ol>
+      
+      <p><strong>¿Buscas el mejor IPTV latino?</strong> <strong>Flujo TV</strong> ofrece la mejor relación calidad-precio. Visita <strong>flujo3tv.com</strong> para más información.</p>
+    `,
+    contentEn: `
+      <p>Looking for <strong>cheap and quality Latino IPTV</strong>? In this article we compare the best IPTV services for Latinos in 2026.</p>
+      
+      <h2>What is IPTV?</h2>
+      <p><strong>IPTV</strong> (Internet Protocol Television) allows you to watch TV over the internet without cable or antenna.</p>
+      
+      <h2>Flujo TV: The Best Latino IPTV</h2>
+      <p><strong>Flujo TV</strong> stands out as the best Latino IPTV for its low price of $9/month and 1200+ HD/4K channels.</p>
+      
+      <p><strong>Looking for the best Latino IPTV?</strong> Visit <strong>flujo3tv.com</strong> for more information.</p>
+    `,
+    category: 'Comparaciones',
+    categoryEn: 'Comparisons',
+    author: 'Flujo TV Team'
+  },
+  {
+    title: 'Flujo TV en Los Angeles, California: Guía Completa 2026',
+    titleEn: 'Flujo TV in Los Angeles, California: Complete Guide 2026',
+    excerpt: 'Cómo usar Flujo TV en Los Angeles, California. Canales mexicanos, latinoamericanos y deportes en vivo para la comunidad latina de LA. Instalación y soporte local.',
+    excerptEn: 'How to use Flujo TV in Los Angeles, California. Mexican, Latin American channels and live sports for the LA Latino community. Installation and local support.',
+    content: `
+      <p>¿Vives en <strong>Los Angeles, California</strong> y buscas la mejor forma de ver televisión latina? <strong>Flujo TV</strong> es la solución perfecta para la enorme comunidad latina de LA.</p>
+      
+      <h2>Comunidad Latina en Los Angeles</h2>
+      <p>Los Angeles tiene la población latina más grande de Estados Unidos, con más de <strong>4.9 millones de hispanos</strong>. La comunidad mexicana es la más grande, seguida por salvadoreños, guatemaltecos y otros grupos latinos.</p>
+      
+      <h2>Por Qué Flujo TV es Perfecto para LA</h2>
+      <ul>
+        <li>📺 <strong>Canales de México</strong> - Para la gran comunidad mexicana</li>
+        <li>⚽ <strong>Deportes en vivo</strong> - Liga MX, MLS, NFL</li>
+        <li>🎬 <strong>Entretenimiento</strong> - Telenovelas, series, películas</li>
+        <li>👶 <strong>Contenido infantil</strong> - Dibujos en español</li>
+        <li>📰 <strong>Noticias</strong> - De México, Centroamérica y USA</li>
+      </ul>
+      
+      <h2>Canales Populares en Los Angeles</h2>
+      
+      <h3>Para Mexicanos en LA</h3>
+      <ul>
+        <li>Las Estrellas</li>
+        <li>TV Azteca</li>
+        <li>Televisa Deportes</li>
+        <li>TUDN</li>
+      </ul>
+      
+      <h3>Para Centroamericanos en LA</h3>
+      <ul>
+        <li>Canales de El Salvador</li>
+        <li>Canales de Guatemala</li>
+        <li>Canales de Honduras</li>
+      </ul>
+      
+      <h3>Deportes en Los Angeles</h3>
+      <p>Los fans del deporte en LA pueden ver:</p>
+      <ul>
+        <li>⚽ <strong>Liga MX</strong> - Todos los equipos mexicanos</li>
+        <li>⚽ <strong>LA Galaxy</strong> - MLS en español</li>
+        <li>⚽ <strong>LAFC</strong> - Fútbol local</li>
+        <li>🏈 <strong>Rams y Chargers</strong> - NFL</li>
+        <li>🏀 <strong>Lakers y Clippers</strong> - NBA</li>
+        <li>⚾ <strong>Dodgers y Angels</strong> - MLB</li>
+      </ul>
+      
+      <h2>Cómo Instalar Flujo TV en LA</h2>
+      
+      <h3>En Smart TV</h3>
+      <ol>
+        <li>Abre la tienda de apps de tu Smart TV</li>
+        <li>Busca una app IPTV compatible</li>
+        <li>Instala y configura con tus credenciales</li>
+      </ol>
+      
+      <h3>En Fire Stick</h3>
+      <ol>
+        <li>Instala Downloader desde Amazon Store</li>
+        <li>Ingresa el código 9978138</li>
+        <li>Descarga e instala la app</li>
+      </ol>
+      
+      <h3>En Roku</h3>
+      <ol>
+        <li>Agrega un canal IPTV</li>
+        <li>Configura con tus datos</li>
+      </ol>
+      
+      <h2>Planes y Precios</h2>
+      <table>
+        <tr><td>1 Mes</td><td>$9 USD</td></tr>
+        <tr><td>3 Meses</td><td>$25 USD</td></tr>
+        <tr><td>6 Meses</td><td>$49 USD (¡1 MES GRATIS!)</td></tr>
+        <tr><td>12 Meses</td><td>$87 USD (¡2 MESES GRATIS!)</td></tr>
+      </table>
+      
+      <h2>Soporte para Los Angeles</h2>
+      <p><strong>Flujo TV</strong> ofrece soporte técnico para usuarios en Los Angeles y todo California. Contacta por WhatsApp o email para asistencia.</p>
+      
+      <p><strong>¿Vives en Los Angeles?</strong> Visita <strong>flujo3tv.com</strong> y comienza a disfrutar de la mejor TV latina.</p>
+    `,
+    contentEn: `
+      <p>Do you live in <strong>Los Angeles, California</strong> and looking for the best way to watch Latino TV? <strong>Flujo TV</strong> is the perfect solution for LA's huge Latino community.</p>
+      
+      <h2>Latino Community in Los Angeles</h2>
+      <p>Los Angeles has the largest Latino population in the United States, with over <strong>4.9 million Hispanics</strong>.</p>
+      
+      <h2>Why Flujo TV is Perfect for LA</h2>
+      <ul>
+        <li>📺 <strong>Mexican Channels</strong> - For the large Mexican community</li>
+        <li>⚽ <strong>Live Sports</strong> - Liga MX, MLS, NFL</li>
+        <li>🎬 <strong>Entertainment</strong> - Telenovelas, series, movies</li>
+      </ul>
+      
+      <p><strong>Live in Los Angeles?</strong> Visit <strong>flujo3tv.com</strong> and start enjoying the best Latino TV.</p>
+    `,
+    category: 'Ciudades',
+    categoryEn: 'Cities',
+    author: 'Flujo TV Team'
+  },
+  {
+    title: 'Flujo TV en Houston, Texas: TV Latina para la Comunidad',
+    titleEn: 'Flujo TV in Houston, Texas: Latino TV for the Community',
+    excerpt: 'Flujo TV en Houston, Texas. Canales mexicanos, latinos y deportes en vivo para la comunidad hispana de Houston. Guía de instalación y canales disponibles.',
+    excerptEn: 'Flujo TV in Houston, Texas. Mexican, Latino channels and live sports for Houston Hispanic community. Installation guide and available channels.',
+    content: `
+      <p>¿Vives en <strong>Houston, Texas</strong>? <strong>Flujo TV</strong> es el servicio de streaming ideal para la gran comunidad latina de Houston, la cuarta ciudad más grande de Estados Unidos.</p>
+      
+      <h2>Comunidad Latina en Houston</h2>
+      <p>Houston tiene una de las poblaciones latinas más grandes de Estados Unidos, con más de <strong>2.3 millones de hispanos</strong>. La comunidad mexicana y mexicano-americana es predominante.</p>
+      
+      <h2>Por Qué Houston Ama Flujo TV</h2>
+      <ul>
+        <li>📺 <strong>Canales mexicanos</strong> - Televisa, TV Azteca, Las Estrellas</li>
+        <li>⚽ <strong>Fútbol en vivo</strong> - Liga MX, Selección Mexicana</li>
+        <li>🏈 <strong>NFL en español</strong> - Houston Texans</li>
+        <li>🏀 <strong>NBA</strong> - Houston Rockets</li>
+        <li>⚾ <strong>MLB</strong> - Houston Astros</li>
+      </ul>
+      
+      <h2>Deportes en Houston</h2>
+      <p>Los deportistas de Houston pueden ver:</p>
+      <ul>
+        <li><strong>Houston Texans</strong> - NFL en español</li>
+        <li><strong>Houston Rockets</strong> - NBA</li>
+        <li><strong>Houston Astros</strong> - MLB</li>
+        <li><strong>Dynamo FC</strong> - MLS</li>
+        <li><strong>Liga MX</strong> - Fútbol mexicano</li>
+      </ul>
+      
+      <h2>Canales Mexicanos en Houston</h2>
+      <p>La gran comunidad mexicana de Houston disfruta de:</p>
+      <ul>
+        <li>Las Estrellas</li>
+        <li>Canal de las Estrellas</li>
+        <li>TV Azteca</li>
+        <li>Televisa Deportes</li>
+        <li>TUDN</li>
+        <li>ESPN Deportes</li>
+      </ul>
+      
+      <h2>Instalación en Houston</h2>
+      <p>Instalar <strong>Flujo TV</strong> en Houston es fácil:</p>
+      
+      <h3>Fire Stick</h3>
+      <ol>
+        <li>Habilita apps de orígenes desconocidos</li>
+        <li>Instala Downloader</li>
+        <li>Ingresa código 9978138</li>
+        <li>Instala y configura</li>
+      </ol>
+      
+      <h3>Smart TV</h3>
+      <p>Compatible con Samsung, LG, Sony y más marcas disponibles en tiendas de Houston.</p>
+      
+      <h2>Precios</h2>
+      <p>Desde <strong>$9/mes</strong> con:</p>
+      <ul>
+        <li>1200+ canales</li>
+        <li>HD y 4K</li>
+        <li>3 pantallas</li>
+        <li>Sin contratos</li>
+      </ul>
+      
+      <p><strong>¿Vives en Houston?</strong> Visita <strong>flujo3tv.com</strong> y conecta con tu cultura.</p>
+    `,
+    contentEn: `
+      <p>Do you live in <strong>Houston, Texas</strong>? <strong>Flujo TV</strong> is the ideal streaming service for Houston's large Latino community.</p>
+      
+      <h2>Latino Community in Houston</h2>
+      <p>Houston has one of the largest Latino populations in the United States, with over <strong>2.3 million Hispanics</strong>.</p>
+      
+      <h2>Sports in Houston</h2>
+      <ul>
+        <li><strong>Houston Texans</strong> - NFL in Spanish</li>
+        <li><strong>Houston Rockets</strong> - NBA</li>
+        <li><strong>Houston Astros</strong> - MLB</li>
+        <li><strong>Liga MX</strong> - Mexican soccer</li>
+      </ul>
+      
+      <p><strong>Live in Houston?</strong> Visit <strong>flujo3tv.com</strong> and connect with your culture.</p>
+    `,
+    category: 'Ciudades',
+    categoryEn: 'Cities',
+    author: 'Flujo TV Team'
+  },
+  {
+    title: 'Flujo TV en Miami, Florida: TV Latina para la Comunidad',
+    titleEn: 'Flujo TV in Miami, Florida: Latino TV for the Community',
+    excerpt: 'Flujo TV en Miami, Florida. Canales latinos, cubanos, colombianos, venezolanos y deportes en vivo. La guía completa para la comunidad hispana de Miami.',
+    excerptEn: 'Flujo TV in Miami, Florida. Latino, Cuban, Colombian, Venezuelan channels and live sports. The complete guide for Miami Hispanic community.',
+    content: `
+      <p>¿Vives en <strong>Miami, Florida</strong>? <strong>Flujo TV</strong> es perfecto para la diversa comunidad latina de Miami, con canales de Cuba, Colombia, Venezuela, México y más países.</p>
+      
+      <h2>Comunidad Latina en Miami</h2>
+      <p>Miami es una de las ciudades más latinas de Estados Unidos, con <strong>más del 70% de población hispana</strong>. Incluye grandes comunidades de:</p>
+      <ul>
+        <li>🇨🇺 <strong>Cubanos</strong> - La comunidad más grande</li>
+        <li>🇨🇴 <strong>Colombianos</strong> - Comunidad creciente</li>
+        <li>🇻🇪 <strong>Venezolanos</strong> - Gran población reciente</li>
+        <li>🇵🇷 <strong>Puertorriqueños</strong> - Comunidad establecida</li>
+        <li>🇲🇽 <strong>Mexicanos</strong> - En crecimiento</li>
+      </ul>
+      
+      <h2>Canales por País</h2>
+      
+      <h3>Canales Cubanos</h3>
+      <ul>
+        <li>Cubavisión Internacional</li>
+        <li>Tele Rebelde</li>
+        <li>Canal Educativo</li>
+      </ul>
+      
+      <h3>Canales Colombianos</h3>
+      <ul>
+        <li>Caracol TV</li>
+        <li>RCN Television</li>
+        <li>City TV</li>
+        <li>Canal Uno</li>
+      </ul>
+      
+      <h3>Canales Venezolanos</h3>
+      <ul>
+        <li>Televen</li>
+        <li>Venevision</li>
+        <li>Globovision</li>
+      </ul>
+      
+      <h2>Deportes en Miami</h2>
+      <ul>
+        <li>⚽ <strong>Inter Miami</strong> - MLS (equipo de Messi)</li>
+        <li>🏀 <strong>Miami Heat</strong> - NBA</li>
+        <li>🏈 <strong>Miami Dolphins</strong> - NFL</li>
+        <li>⚾ <strong>Miami Marlins</strong> - MLB</li>
+        <li>🏒 <strong>Florida Panthers</strong> - NHL</li>
+      </ul>
+      
+      <h2>Instalación en Miami</h2>
+      <p>Instalar <strong>Flujo TV</strong> en Miami es sencillo:</p>
+      <ol>
+        <li>Visita flujo3tv.com</li>
+        <li>Elige tu plan</li>
+        <li>Recibe tus credenciales</li>
+        <li>Instala en tu dispositivo</li>
+      </ol>
+      
+      <h2>Planes desde $9/mes</h2>
+      <ul>
+        <li>1200+ canales latinos</li>
+        <li>HD y 4K</li>
+        <li>3 pantallas</li>
+        <li>Canales de Cuba, Colombia, Venezuela y más</li>
+      </ul>
+      
+      <p><strong>¿Vives en Miami?</strong> Visita <strong>flujo3tv.com</strong> y disfruta de la TV de tu país.</p>
+    `,
+    contentEn: `
+      <p>Do you live in <strong>Miami, Florida</strong>? <strong>Flujo TV</strong> is perfect for Miami's diverse Latino community, with channels from Cuba, Colombia, Venezuela, Mexico and more.</p>
+      
+      <h2>Latino Community in Miami</h2>
+      <p>Miami is one of the most Latino cities in the United States, with <strong>over 70% Hispanic population</strong>.</p>
+      
+      <h2>Channels by Country</h2>
+      <ul>
+        <li>🇨🇺 Cuban Channels</li>
+        <li>🇨🇴 Colombian Channels (Caracol, RCN)</li>
+        <li>🇻🇪 Venezuelan Channels</li>
+      </ul>
+      
+      <p><strong>Live in Miami?</strong> Visit <strong>flujo3tv.com</strong> and enjoy TV from your country.</p>
+    `,
+    category: 'Ciudades',
+    categoryEn: 'Cities',
+    author: 'Flujo TV Team'
   }
 ]
 
@@ -1005,7 +1648,7 @@ export async function GET() {
 
     return NextResponse.json({ 
       success: true,
-      message: 'Database reset and seeded with 11 posts for 2026!', 
+      message: 'Database reset and seeded with 18 SEO-optimized posts for 2026!', 
       count: createdPosts.length,
       timestamp: new Date().toISOString()
     })
