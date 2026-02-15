@@ -104,6 +104,7 @@ export const metadata: Metadata = {
   },
   other: {
     "google-site-verification": "YOUR_GOOGLE_VERIFICATION_CODE",
+    "msvalidate.01": "8B0AB8FDFDEA1E0CF4BD3DE98FD706CC",
   },
 };
 
