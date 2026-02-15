@@ -26,8 +26,8 @@ const samplePosts = [
       <table>
         <tr><td>1 Mes</td><td>$9 USD</td></tr>
         <tr><td>3 Meses</td><td>$25 USD</td></tr>
-        <tr><td>6 Meses</td><td>$49 USD</td></tr>
-        <tr><td>12 Meses</td><td>$87 USD</td></tr>
+        <tr><td>6 Meses</td><td>$49 USD <strong>(¡1 MES GRATIS! = 7 meses)</strong></td></tr>
+        <tr><td>12 Meses</td><td>$87 USD <strong>(¡2 MESES GRATIS! = 14 meses)</strong></td></tr>
       </table>
       
       <h2>Cómo Empezar</h2>
@@ -54,8 +54,8 @@ const samplePosts = [
       <table>
         <tr><td>1 Month</td><td>$9 USD</td></tr>
         <tr><td>3 Months</td><td>$25 USD</td></tr>
-        <tr><td>6 Months</td><td>$49 USD</td></tr>
-        <tr><td>12 Months</td><td>$87 USD</td></tr>
+        <tr><td>6 Months</td><td>$49 USD <strong>(¡1 MONTH FREE! = 7 months)</strong></td></tr>
+        <tr><td>12 Months</td><td>$87 USD <strong>(¡2 MONTHS FREE! = 14 months)</strong></td></tr>
       </table>
       
       <h2>How to Start</h2>
@@ -511,22 +511,26 @@ const samplePosts = [
         <li><strong>Ideal para:</strong> Ahorro a corto plazo</li>
       </ul>
       
-      <h3>Plan 6 Meses - 9% Descuento</h3>
+      <h3>Plan 6 Meses - 9% Descuento + 1 MES GRATIS</h3>
       <ul>
-        <li><strong>Precio:</strong> $49 USD ($8.17/mes)</li>
+        <li><strong>Precio:</strong> $49 USD</li>
+        <li><strong>Duración:</strong> 7 meses (6 pagados + 1 mes GRATIS)</li>
         <li><strong>Canales:</strong> 1200+</li>
         <li><strong>Pantallas:</strong> 3 simultáneas</li>
         <li><strong>Calidad:</strong> HD y 4K</li>
         <li><strong>Ideal para:</strong> Usuarios regulares</li>
+        <li><strong>¡PROMOCIÓN ESPECIAL!</strong> ¡Recibe 1 mes GRATIS!</li>
       </ul>
       
-      <h3>Plan 12 Meses - 20% Descuento ⭐ MEJOR VALOR</h3>
+      <h3>Plan 12 Meses - 20% Descuento + 2 MESES GRATIS ⭐ MEJOR VALOR</h3>
       <ul>
-        <li><strong>Precio:</strong> $87 USD ($7.25/mes)</li>
+        <li><strong>Precio:</strong> $87 USD</li>
+        <li><strong>Duración:</strong> 14 meses (12 pagados + 2 meses GRATIS)</li>
         <li><strong>Canales:</strong> 1200+</li>
         <li><strong>Pantallas:</strong> 3 simultáneas</li>
         <li><strong>Calidad:</strong> HD y 4K</li>
         <li><strong>Ideal para:</strong> Máximo ahorro</li>
+        <li><strong>¡PROMOCIÓN ESPECIAL!</strong> ¡Recibe 2 meses GRATIS!</li>
       </ul>
       
       <h2>Comparación con la Competencia</h2>
@@ -591,12 +595,26 @@ const samplePosts = [
         <li><strong>Ideal for:</strong> Short-term savings</li>
       </ul>
       
-      <h3>12 Month Plan - 20% Discount ⭐ BEST VALUE</h3>
+      <h3>6 Month Plan - 9% Discount + 1 MONTH FREE</h3>
       <ul>
-        <li><strong>Price:</strong> $87 USD ($7.25/month)</li>
+        <li><strong>Price:</strong> $49 USD</li>
+        <li><strong>Duration:</strong> 7 months (6 paid + 1 month FREE)</li>
         <li><strong>Channels:</strong> 1200+</li>
         <li><strong>Screens:</strong> 3 simultaneous</li>
+        <li><strong>Quality:</strong> HD and 4K</li>
+        <li><strong>Ideal for:</strong> Regular users</li>
+        <li><strong>SPECIAL PROMOTION!</strong> Get 1 month FREE!</li>
+      </ul>
+      
+      <h3>12 Month Plan - 20% Discount + 2 MONTHS FREE ⭐ BEST VALUE</h3>
+      <ul>
+        <li><strong>Price:</strong> $87 USD</li>
+        <li><strong>Duration:</strong> 14 months (12 paid + 2 months FREE)</li>
+        <li><strong>Channels:</strong> 1200+</li>
+        <li><strong>Screens:</strong> 3 simultaneous</li>
+        <li><strong>Quality:</strong> HD and 4K</li>
         <li><strong>Ideal for:</strong> Maximum savings</li>
+        <li><strong>SPECIAL PROMOTION!</strong> Get 2 months FREE!</li>
       </ul>
       
       <h2>What All Plans Include</h2>
