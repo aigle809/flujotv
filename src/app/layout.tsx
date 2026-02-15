@@ -100,10 +100,10 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: "YOUR_GOOGLE_VERIFICATION_CODE",
+    google: "wZEAZLRzpHKEzfR07-x71kOzquqPMDRxCIrpuBcpztY",
   },
   other: {
-    "google-site-verification": "YOUR_GOOGLE_VERIFICATION_CODE",
+    "google-site-verification": "wZEAZLRzpHKEzfR07-x71kOzquqPMDRxCIrpuBcpztY",
     "msvalidate.01": "8B0AB8FDFDEA1E0CF4BD3DE98FD706CC",
   },
 };
